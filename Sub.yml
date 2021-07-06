@@ -1,0 +1,30 @@
+Name: 'Head-office'
+Total_Employee: 4
+Specification: Employee_1
+Employee_1:
+         Employee_name: 'Vibhor' 
+         Position: 'Head of the department'
+         Date_of_birth: 01/10/1990
+         Salary: Rs.10 lakh
+         Address: Noida
+Employee_2:
+         Employee_name: 'Saumya'
+         position: 'Employee'
+         Date_of_birth: 02/09/2000
+         Salary: Rs.04 lakh
+         Address: Delhi
+Employee_3:
+         Employee_name: 'Shivani'
+         position: 'Employee' 
+         Date_of_birth: 03/08/2000
+         Salary: Rs.04 lakh
+         Address: Mumbai
+Employee_4:
+        Employee_name: 'Harshita'
+        position: 'Employee'
+        Date_of_birth: 16/10/2001
+        Salary: Rs.04 lakh
+        Address: Jhansi         
+
+         
+
